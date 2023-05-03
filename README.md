@@ -35,7 +35,7 @@ Outline
 - [Towards Emotional Support Dialog Systems](https://doi.org/10.18653/v1/2021.acl-long.269) (ACL 2021) [[repo](https://github.com/thu-coai/Emotional-Support-Conversation)]
 - [MISC: A Mixed Strategy-Aware Model integrating COMET for Emotional Support Conversation](https://doi.org/10.18653/v1/2022.acl-long.25) (ACL 2022) [[repo](https://github.com/morecry/MISC)]
 - [Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning](https://arxiv.org/abs/2210.04242) (EMNLP 2022) [[repo](https://github.com/lwgkzl/MultiESC)]
-- [Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations]() () [[repo]()]
+- [Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations]() (ACL 2023) 
 
 ### Prosocial Dialogues
 - [ProsocialDialog: A Prosocial Backbone for Conversational Agents](https://arxiv.org/abs/2205.12688) (EMNLP 2022) [[repo](https://github.com/skywalker023/prosocial-dialog)]
