@@ -18,7 +18,7 @@ Outline
 
 
 ## Survey
-- [A Survey on Proactive Dialogue Systems: Problems, Methods, and Prospects]() (IJCAI 2023 Survey Track)
+- [A Survey on Proactive Dialogue Systems: Problems, Methods, and Prospects](https://doi.org/10.48550/arXiv.2305.02750) (IJCAI 2023 Survey Track)
 - [How to Approach Ambiguous Queries in Conversational Search: A Survey of Techniques, Approaches, Tools, and Challenges](https://doi.org/10.1145/3534965) (ACM Computing Surveys, 2022)
 - [Let's Negotiate! A Survey of Negotiation Dialogue Systems](https://doi.org/10.48550/arXiv.2212.09072)
 
@@ -35,7 +35,7 @@ Outline
 - [Towards Emotional Support Dialog Systems](https://doi.org/10.18653/v1/2021.acl-long.269) (ACL 2021) [[repo](https://github.com/thu-coai/Emotional-Support-Conversation)]
 - [MISC: A Mixed Strategy-Aware Model integrating COMET for Emotional Support Conversation](https://doi.org/10.18653/v1/2022.acl-long.25) (ACL 2022) [[repo](https://github.com/morecry/MISC)]
 - [Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning](https://arxiv.org/abs/2210.04242) (EMNLP 2022) [[repo](https://github.com/lwgkzl/MultiESC)]
-- [Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations]() (ACL 2023) 
+- [Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations](https://doi.org/10.48550/arXiv.2305.10172) (ACL 2023) [[repo](https://github.com/dengyang17/KEMI)]
 
 ### Prosocial Dialogues
 - [ProsocialDialog: A Prosocial Backbone for Conversational Agents](https://arxiv.org/abs/2205.12688) (EMNLP 2022) [[repo](https://github.com/skywalker023/prosocial-dialog)]
