@@ -97,7 +97,7 @@ Outline
 - [NewsDialogues: Towards Proactive News Grounded Conversation](https://aclanthology.org/2023.findings-acl.224/) (ACL 2023 Findings) [[repo](https://github.com/SihengLi99/NewsDialogues)]
 - [OPERA: Harmonizing Task-Oriented Dialogs and Information Seeking Experience](https://arxiv.org/abs/2206.12449)
 - [Fusing Task-oriented and Open-domain Dialogues in Conversational Agents](https://arxiv.org/abs/2109.04137) (AAAI 2022) [[repo](https://github.com/tomyoung903/FusedChat)]
-- [SalesBot: Transitioning from Chit-Chat to Task-Oriented Dialogues](https://aclanthology.org/2022.acl-long.425/) (ACL 2022) [[repo] (https://github.com/miulab/salesbot)]
+- [SalesBot: Transitioning from Chit-Chat to Task-Oriented Dialogues](https://aclanthology.org/2022.acl-long.425/) (ACL 2022) [[repo](https://github.com/miulab/salesbot)]
 
 
 ## Proactivity in LLM-based Dialogue Systems
