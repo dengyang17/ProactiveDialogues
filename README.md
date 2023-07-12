@@ -3,6 +3,7 @@ Proactive Dialogue Systems - Paper Reading List
 
 Outline
 - [Survey](#Survey)
+- [Tutorial](#Tutorial)
 - [Proactive Open-domain Dialogues](#Proactive-Open-domain-Dialogue-Systems)
   - [Target-guided Open-domain Dialogues](#Target-guided-Open-domain-Dialogues)
   - [Emotional Support Dialogues](#Emotional-Support-Dialogues)
@@ -15,13 +16,19 @@ Outline
   - [Asking Clarification Questions](#Asking-Clarification-Questions)
   - [User Preference Elicitation](#User-Preference-Elicitation)
   - [Over-specified Query Management](#Over-specified-Query-Management)
+- [Proactive Hybrid Dialogues](#Proactive-Hybrid-Dialogue-Systems)
+- [Proactivity in LLM-based Dialogue Systems](#Proactivity-in-LLM-based-Dialogue-Systems)
 
 
 ## Survey
 - [A Survey on Proactive Dialogue Systems: Problems, Methods, and Prospects](https://doi.org/10.48550/arXiv.2305.02750) (IJCAI 2023 Survey Track)
 - [How to Approach Ambiguous Queries in Conversational Search: A Survey of Techniques, Approaches, Tools, and Challenges](https://doi.org/10.1145/3534965) (ACM Computing Surveys, 2022)
 - [Let's Negotiate! A Survey of Negotiation Dialogue Systems](https://doi.org/10.48550/arXiv.2212.09072)
+- [A Survey on Asking Clarification Questions Datasets in Conversational Systems](https://aclanthology.org/2023.acl-long.152/) (ACL 2023)
 
+## Tutorial
+- [Goal Awareness for Conversational AI: Proactivity, Non-collaborativity, and Beyond](https://aclanthology.org/2023.acl-tutorials.1/) (ACL 2023)
+- [Proactive Conversational Agents](https://dl.acm.org/doi/10.1145/3539597.3572724) (WSDM 2023)
 
 ## Proactive Open-domain Dialogue Systems
 ### Target-guided Open-domain Dialogues
@@ -30,6 +37,7 @@ Outline
 - [Keyword-Guided Neural Conversational Model](https://arxiv.org/abs/2012.08383) (AAAI 2021) [[repo](https://github.com/zhongpeixiang/CKC)]
 - [TopKG: Target-oriented Dialog via Global Planning on Knowledge Graph](https://aclanthology.org/2022.coling-1.62) (COLING 2022) [[repo](https://github.com/yyyyyyzt/topkgchat)]
 - [Interacting with Non-Cooperative User: A New Paradigm for Proactive Dialogue Policy](https://doi.org/10.48550/arXiv.2204.07433) (SIGIR 2022)
+- [Dialogue Planning via Brownian Bridge Stochastic Process for Goal-directed Proactive Dialogue](https://aclanthology.org/2023.findings-acl.25/) (ACL 2023 Findings)
 
 ### Emotional Support Dialogues
 - [Towards Emotional Support Dialog Systems](https://doi.org/10.18653/v1/2021.acl-long.269) (ACL 2021) [[repo](https://github.com/thu-coai/Emotional-Support-Conversation)]
@@ -49,6 +57,8 @@ Outline
 
 ### System-initiated Sub-dialogues
 - [Database Search Results Disambiguation for Task-oriented Dialog Systems](https://arxiv.org/abs/2112.08351) (NAACL 2022)
+- [TITAN : Task-oriented Dialogues with Mixed-Initiative Interactions]() (IJCAI 2023)
+- [Towards Asking Clarification Questions for Information Seeking on Task-Oriented Dialogues.](https://arxiv.org/abs/2305.13690)
 
 ### Non-collaborative Dialogues
 - [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://aclanthology.org/D17-1259/) (EMNLP 2017) [[repo](https://github.com/facebookresearch/end-to-end-negotiator)]
@@ -76,4 +86,22 @@ Outline
 - [Multiple Choice Questions based Multi-Interest Policy Learning for Conversational Recommendation](https://arxiv.org/abs/2112.11775) (WWW 2022) 
 
 ### Over-specified Query Management
-- [INSCIT: information-seeking conversations with mixed-initiative interactions](https://arxiv.org/abs/2207.00746) [[repo](https://github.com/ellenmellon/INSCIT)]
+- [INSCIT: information-seeking conversations with mixed-initiative interactions](https://arxiv.org/abs/2207.00746) (TACL 2023) [[repo](https://github.com/ellenmellon/INSCIT)]
+
+
+## Proactive Hybrid Dialogue Systems
+- [Towards Conversational Recommendation over Multi-Type Dialogs](https://aclanthology.org/2020.acl-main.98/) (ACL 2020) [[repo](https://github.com/liuzeming01/durecdial)]
+- [Where to Go for the Holidays: Towards Mixed-Type Dialogs for Clarification of User Goals](https://aclanthology.org/2022.acl-long.73/) (ACL 2022)
+- [A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems](https://dl.acm.org/doi/10.1145/3570640) (TOIS 2023) [[repo](https://github.com/dengyang17/UniMIND)]
+- [MidMed: Towards Mixed-Type Dialogues for Medical Consultation](https://aclanthology.org/2023.acl-long.453/) (ACL 2023) [[repo](https://github.com/xmshi-trio/MidMed)]
+- [NewsDialogues: Towards Proactive News Grounded Conversation](https://aclanthology.org/2023.findings-acl.224/) (ACL 2023 Findings) [[repo](https://github.com/SihengLi99/NewsDialogues)]
+- [OPERA: Harmonizing Task-Oriented Dialogs and Information Seeking Experience](https://arxiv.org/abs/2206.12449)
+- [Fusing Task-oriented and Open-domain Dialogues in Conversational Agents](https://arxiv.org/abs/2109.04137) (AAAI 2022) [[repo](https://github.com/tomyoung903/FusedChat)]
+- [SalesBot: Transitioning from Chit-Chat to Task-Oriented Dialogues](https://aclanthology.org/2022.acl-long.425/) (ACL 2022) [[repo] (https://github.com/miulab/salesbot)]
+
+
+## Proactivity in LLM-based Dialogue Systems
+- [Controllable Mixed-Initiative Dialogue Generation through Prompting](https://aclanthology.org/2023.acl-short.82/) (ACL 2023) [[repo](https://github.com/maxlchen/Controllable-Mixed-Initiative-Dialogue-Generation)]
+- [Ask an Expert: Leveraging Language Models to Improve Strategic Reasoning in Goal-Oriented Dialogue Models](https://aclanthology.org/2023.findings-acl.417/) (ACL 2023 Findings)
+- [Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback](https://arxiv.org/abs/2305.10142) [[repo](https://github.com/FranxYao/GPT-Bargaining)]
+- [Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration](https://arxiv.org/abs/2305.13626) [[repo](https://github.com/dengyang17/LLM-Proactive)]
