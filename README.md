@@ -29,6 +29,7 @@ Outline
 ## Tutorial
 - [Goal Awareness for Conversational AI: Proactivity, Non-collaborativity, and Beyond](https://aclanthology.org/2023.acl-tutorials.1/) (ACL 2023)
 - [Proactive Conversational Agents](https://dl.acm.org/doi/10.1145/3539597.3572724) (WSDM 2023)
+- [Proactive Conversational Agents in the Post-ChatGPT World](https://dl.acm.org/doi/abs/10.1145/3539618.3594250) (SIGIR 2023)
 
 ## Proactive Open-domain Dialogue Systems
 ### Target-guided Open-domain Dialogues
@@ -54,11 +55,12 @@ Outline
 ### Enriched Task-oriented Dialogues
 - [Adding Chit-chat to Enhance Task-oriented Dialogues](https://arxiv.org/abs/2010.12757) (NAACL 2021) [[repo](https://github.com/facebookresearch/accentor)]
 - [KETOD: Knowledge-enriched Task-oriented Dialogue](https://arxiv.org/abs/2205.05589) (NAACL 2022 Findings) [[repo](https://github.com/facebookresearch/ketod)]
+- ["What do others think?": Task-Oriented Conversational Modeling with Subjective Knowledge](https://arxiv.org/abs/2305.12091)
 
 ### System-initiated Sub-dialogues
 - [Database Search Results Disambiguation for Task-oriented Dialog Systems](https://arxiv.org/abs/2112.08351) (NAACL 2022)
 - [TITAN : Task-oriented Dialogues with Mixed-Initiative Interactions]() (IJCAI 2023)
-- [Towards Asking Clarification Questions for Information Seeking on Task-Oriented Dialogues.](https://arxiv.org/abs/2305.13690)
+- [Towards Asking Clarification Questions for Information Seeking on Task-Oriented Dialogues.](https://arxiv.org/abs/2305.13690) [[repo](https://github.com/alexa/dstc11-track5)]
 
 ### Non-collaborative Dialogues
 - [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://aclanthology.org/D17-1259/) (EMNLP 2017) [[repo](https://github.com/facebookresearch/end-to-end-negotiator)]
@@ -92,12 +94,12 @@ Outline
 ## Proactive Hybrid Dialogue Systems
 - [Towards Conversational Recommendation over Multi-Type Dialogs](https://aclanthology.org/2020.acl-main.98/) (ACL 2020) [[repo](https://github.com/liuzeming01/durecdial)]
 - [Where to Go for the Holidays: Towards Mixed-Type Dialogs for Clarification of User Goals](https://aclanthology.org/2022.acl-long.73/) (ACL 2022)
+- [Fusing Task-oriented and Open-domain Dialogues in Conversational Agents](https://arxiv.org/abs/2109.04137) (AAAI 2022) [[repo](https://github.com/tomyoung903/FusedChat)]
+- [SalesBot: Transitioning from Chit-Chat to Task-Oriented Dialogues](https://aclanthology.org/2022.acl-long.425/) (ACL 2022) [[repo](https://github.com/miulab/salesbot)]
 - [A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems](https://dl.acm.org/doi/10.1145/3570640) (TOIS 2023) [[repo](https://github.com/dengyang17/UniMIND)]
 - [MidMed: Towards Mixed-Type Dialogues for Medical Consultation](https://aclanthology.org/2023.acl-long.453/) (ACL 2023) [[repo](https://github.com/xmshi-trio/MidMed)]
 - [NewsDialogues: Towards Proactive News Grounded Conversation](https://aclanthology.org/2023.findings-acl.224/) (ACL 2023 Findings) [[repo](https://github.com/SihengLi99/NewsDialogues)]
-- [OPERA: Harmonizing Task-Oriented Dialogs and Information Seeking Experience](https://arxiv.org/abs/2206.12449)
-- [Fusing Task-oriented and Open-domain Dialogues in Conversational Agents](https://arxiv.org/abs/2109.04137) (AAAI 2022) [[repo](https://github.com/tomyoung903/FusedChat)]
-- [SalesBot: Transitioning from Chit-Chat to Task-Oriented Dialogues](https://aclanthology.org/2022.acl-long.425/) (ACL 2022) [[repo](https://github.com/miulab/salesbot)]
+- [OPERA: Harmonizing Task-Oriented Dialogs and Information Seeking Experience](https://arxiv.org/abs/2206.12449) (TWEB 2023)
 
 
 ## Proactivity in LLM-based Dialogue Systems
