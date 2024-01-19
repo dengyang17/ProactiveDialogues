@@ -18,6 +18,9 @@ Outline
   - [Over-specified Query Management](#Over-specified-Query-Management)
 - [Proactive Hybrid Dialogues](#Proactive-Hybrid-Dialogue-Systems)
 - [Proactivity in LLM-based Dialogue Systems](#Proactivity-in-LLM-based-Dialogue-Systems)
+  - [In-context Learning / Prompt-based Methods](#In-context-Learning-/-Prompt-based-Methods)
+  - [Supervised Fine-tuning](#Supervised-Fine-tuning)
+  - [Reinforcement Learning](#Reinforcement-learning)
 
 
 ## Survey
@@ -38,7 +41,8 @@ Outline
 - [Keyword-Guided Neural Conversational Model](https://arxiv.org/abs/2012.08383) (AAAI 2021) [[repo](https://github.com/zhongpeixiang/CKC)]
 - [TopKG: Target-oriented Dialog via Global Planning on Knowledge Graph](https://aclanthology.org/2022.coling-1.62) (COLING 2022) [[repo](https://github.com/yyyyyyzt/topkgchat)]
 - [Interacting with Non-Cooperative User: A New Paradigm for Proactive Dialogue Policy](https://doi.org/10.48550/arXiv.2204.07433) (SIGIR 2022)
-- [Dialogue Planning via Brownian Bridge Stochastic Process for Goal-directed Proactive Dialogue](https://aclanthology.org/2023.findings-acl.25/) (ACL 2023 Findings)
+- [Dialogue Planning via Brownian Bridge Stochastic Process for Goal-directed Proactive Dialogue](https://aclanthology.org/2023.findings-acl.25/) (ACL 2023 Findings) [[repo](https://github.com/iwangjian/Color4Dial)]
+- [Target-oriented Proactive Dialogue Systems with Personalization: Problem Formulation and Dataset Curation](https://aclanthology.org/2023.emnlp-main.72/) (EMNLP 2023) [[repo](https://github.com/iwangjian/TopDial)]
 
 ### Emotional Support Dialogues
 - [Towards Emotional Support Dialog Systems](https://doi.org/10.18653/v1/2021.acl-long.269) (ACL 2021) [[repo](https://github.com/thu-coai/Emotional-Support-Conversation)]
@@ -100,10 +104,19 @@ Outline
 - [MidMed: Towards Mixed-Type Dialogues for Medical Consultation](https://aclanthology.org/2023.acl-long.453/) (ACL 2023) [[repo](https://github.com/xmshi-trio/MidMed)]
 - [NewsDialogues: Towards Proactive News Grounded Conversation](https://aclanthology.org/2023.findings-acl.224/) (ACL 2023 Findings) [[repo](https://github.com/SihengLi99/NewsDialogues)]
 - [OPERA: Harmonizing Task-Oriented Dialogs and Information Seeking Experience](https://arxiv.org/abs/2206.12449) (TWEB 2023)
+- [COOPER: Coordinating Specialized Agents towards a Complex Dialogue Goal](https://arxiv.org/abs/2312.11792) (AAAI 2024) [[repo](https://github.com/YiCheng98/Cooper)]
 
 
 ## Proactivity in LLM-based Dialogue Systems
+### In-context Learning / Prompt-based Methods
 - [Controllable Mixed-Initiative Dialogue Generation through Prompting](https://aclanthology.org/2023.acl-short.82/) (ACL 2023) [[repo](https://github.com/maxlchen/Controllable-Mixed-Initiative-Dialogue-Generation)]
 - [Ask an Expert: Leveraging Language Models to Improve Strategic Reasoning in Goal-Oriented Dialogue Models](https://aclanthology.org/2023.findings-acl.417/) (ACL 2023 Findings)
 - [Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback](https://arxiv.org/abs/2305.10142) [[repo](https://github.com/FranxYao/GPT-Bargaining)]
-- [Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration](https://arxiv.org/abs/2305.13626) [[repo](https://github.com/dengyang17/LLM-Proactive)]
+- [Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration](https://arxiv.org/abs/2305.13626) (EMNLP 2023 Findings) [[repo](https://github.com/dengyang17/LLM-Proactive)]
+
+### Supervised Fine-tuning
+- [Building Emotional Support Chatbots in the Era of LLMs](https://arxiv.org/abs/2308.11584) [[repo](https://anonymous.4open.science/r/ExtESC-2761/README.md)]
+
+### Reinforcement Learning
+- [Prompt-Based Monte-Carlo Tree Search for Goal-oriented Dialogue Policy Planning](https://aclanthology.org/2023.emnlp-main.439/) (EMNLP 2023) [[repo](https://github.com/jasonyux/GDPZero)]
+- [Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents](https://arxiv.org/abs/2311.00262) (ICLR 2024) [[repo](https://github.com/dengyang17/PPDPP)]
