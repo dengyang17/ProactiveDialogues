@@ -43,6 +43,7 @@ Outline
 - [Interacting with Non-Cooperative User: A New Paradigm for Proactive Dialogue Policy](https://doi.org/10.48550/arXiv.2204.07433) (SIGIR 2022)
 - [Dialogue Planning via Brownian Bridge Stochastic Process for Goal-directed Proactive Dialogue](https://aclanthology.org/2023.findings-acl.25/) (ACL 2023 Findings) [[repo](https://github.com/iwangjian/Color4Dial)]
 - [Target-oriented Proactive Dialogue Systems with Personalization: Problem Formulation and Dataset Curation](https://aclanthology.org/2023.emnlp-main.72/) (EMNLP 2023) [[repo](https://github.com/iwangjian/TopDial)]
+- [Reinforced Target-driven Conversational Promotion](https://aclanthology.org/2023.emnlp-main.775/) (EMNLP 2023) [[repo](https://github.com/huyquangdao/RTCP)]
 
 ### Emotional Support Dialogues
 - [Towards Emotional Support Dialog Systems](https://doi.org/10.18653/v1/2021.acl-long.269) (ACL 2021) [[repo](https://github.com/thu-coai/Emotional-Support-Conversation)]
